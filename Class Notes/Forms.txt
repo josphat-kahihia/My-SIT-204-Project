@@ -1,0 +1,13 @@
+The HTML form is used to create a form for user input.
+The form element is a container for different types of input elements.
+The input element is displayed in different ways depending on the type attribute.
+
+#Question: Write short notes which to differentiate each of the following input elements
+    > Text field defines a single line input field for text input.
+    > 
+    A label tag defines a label that is 
+
+#Assignments
+    > One sent in whatsapp group.
+    > Explain how to add borders differently
+    > Explain how to fill the table

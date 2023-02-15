@@ -2,3 +2,6 @@ It will have 4 or five pages
 The last page will be About Me- contacts and all
 
 The mini project will be about a food ordering facility
+
+#Menu page- will have three columns where each holds a food item and it's price
+    There will be dessert/drinks/snacks, main dishes and secondary dishes.
